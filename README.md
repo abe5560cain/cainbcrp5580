@@ -1,2 +1,2 @@
-# cainbcrp5580
-Cain's CRP-5580 Repository
+# Cain's CRP-5580 Repo
+This is my repo for CRP-5580 course. 
