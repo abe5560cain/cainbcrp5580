@@ -1,14 +1,10 @@
 <div align="center">
 
-<h1 style="color:#215D6E;">Cain Bynum's Repository</h1>
+# Cain Bynum's Repository
 
-<p style="background:#332421; padding:12px 16px; border-radius:12px; display:inline-block;">
-  <span style="color:#215D6E; font-weight:600;">CRP-5580</span>
-  <span style="color:#E6E6E6;"> • Ph.D. Student in ABE</span>
-</p>
+![CRP-5580](https://img.shields.io/badge/CRP--5580-Ph.D.%20Student%20in%20ABE-215D6E?style=for-the-badge&labelColor=332421)
+![Tools](https://img.shields.io/badge/Tools-GitHub%20%7C%20Tableau%20%7C%20QGIS-215D6E?style=for-the-badge&labelColor=332421)
 
-<p style="color:#E6E6E6;">
-  I am very interested in learning more about Github, Tableau, and QGIS throughout our course. 
-</p>
+I am very interested in learning more about GitHub, Tableau, and QGIS throughout our course.
 
 </div>
