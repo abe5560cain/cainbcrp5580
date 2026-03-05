@@ -46,3 +46,4 @@ layout: single
   </object>
 </div>
 
+<script src="https://public.tableau.com/javascripts/api/viz_v1.js"></script>
