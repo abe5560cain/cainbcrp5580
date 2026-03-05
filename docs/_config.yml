@@ -29,17 +29,3 @@ plugins:
   - jekyll-include-cache
 include:
   - assets
-  
-sidebar:
-  - title: "Assignments"
-    children:
-      - title: "Assignment 1 – Map 1"
-        url: /tasks/assignment-1/map-1/
-      - title: "Assignment 1 – Map 2"
-        url: /tasks/assignment-1/map-2/
-      - title: "Assignment 2 – Map 1"
-        url: /tasks/assignment-2/map-1/
-      - title: "Assignment 2 – Map 2"
-        url: /tasks/assignment-2/map-2/
-url: "https://abe5560cain.github.io"
-baseurl: "/cainbcrp5580"
