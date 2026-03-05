@@ -2,7 +2,7 @@ title: "Home"
 description: ""
 
 remote_theme: "mmistakes/minimal-mistakes"
-minimal_mistakes_skin: "air"
+minimal_mistakes_skin: "dark"
 
 search: false
 markdown: kramdown
@@ -27,3 +27,5 @@ defaults:
 plugins:
   - jekyll-remote-theme
   - jekyll-include-cache
+include:
+  - assets
