@@ -2,8 +2,6 @@
 layout: single
 title: "Cain"
 ---
-
-![Banner]({{ "/CainBanner.png" | relative_url }})
 ## Welcome
 
 I am a PhD student studying Industrial and Agricultural Technology with interests in:
