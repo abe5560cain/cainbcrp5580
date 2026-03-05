@@ -3,7 +3,7 @@ layout: single
 title: "Cain"
 ---
 
-![Banner](CainBanner.png)
+![Banner]({{ "/CainBanner.png" | relative_url }})
 
 ## Welcome
 
