@@ -1,0 +1,53 @@
+/* ---- Dark + Bronze Accent ---- */
+:root{
+  --bg: #0b0b0c;
+  --panel: #121214;
+  --text: #f2f2f2;
+  --muted: #b7b7b7;
+
+  --accent: #b07a2a;      /* bronze */
+  --accent2: #7a4f1b;     /* deeper bronze/brown */
+  --border: #2a2a2d;
+}
+
+body{
+  background: var(--bg) !important;
+  color: var(--text) !important;
+}
+
+a{
+  color: var(--accent) !important;
+}
+a:hover{
+  color: #d8a24b !important;
+}
+
+header, .page__content, .sidebar, .toc, .archive, .page, .masthead, .nav__list, .pagination, .notice{
+  background: var(--panel) !important;
+  color: var(--text) !important;
+  border-color: var(--border) !important;
+}
+
+hr{
+  border-color: var(--border) !important;
+}
+
+code, pre{
+  background: #0f0f12 !important;
+  border: 1px solid var(--border) !important;
+  color: var(--text) !important;
+}
+
+.button, .btn{
+  background: var(--accent2) !important;
+  color: #fff !important;
+  border: 1px solid #c28a3a !important;
+}
+.button:hover, .btn:hover{
+  background: var(--accent) !important;
+}
+
+/* optional: make images look crisp on dark */
+img{
+  background: transparent;
+}
