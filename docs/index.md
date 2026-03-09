@@ -13,7 +13,7 @@ I am a PhD student studying Industrial and Agricultural Technology with interest
 - Agricultural data visualization
 
 ---
-Use the buttons below to see the course  tasks, exercises, assignments, and final project or start by going to learn more <a href = "about">about me</a> me.
+Use the buttons below to see the course  tasks, exercises, assignments, and final project or start by going to learn more <a href = "about">about me</a>.
 
 <div class="button-container">
   <a href="/seeger5880-2026/tasks/" class="btn btn--primary">View Tasks</a>
