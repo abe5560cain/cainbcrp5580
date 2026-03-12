@@ -29,3 +29,6 @@ Use the buttons below to see the course  tasks, exercises, assignments, and fina
 
 **CRP-5580 Assignment 2 – Korean Agriculture Dashboards**  
 [View the dashboards](tasks/assignment-2/)
+
+**CRP-5580 Assignment 3 – Iowa No Internet  Dashboards**  
+[View the dashboards](tasks/assignment-2/)
