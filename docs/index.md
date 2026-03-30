@@ -32,3 +32,13 @@ Use the buttons below to see the course  tasks, exercises, assignments, and fina
 
 **CRP-5580 Assignment 3 – Iowa No Internet  Dashboards**  
 [View the dashboards](tasks/assignment-3/)
+
+<h2>Tama County Agriculture Map</h2>
+<p>Interactive visualization of agricultural employment using ACS 2024 data.</p>
+
+<iframe 
+  src="https://abe5560cain.github.io/cainbcrp5580/"
+  width="100%" 
+  height="600px"
+  style="border:none;">
+</iframe>
