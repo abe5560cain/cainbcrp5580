@@ -1,0 +1,27 @@
+---
+title: "CRP-5580 Assignment 3 – Iowa Counties No Internet"
+permalink: /tasks/assignment-3/
+layout: single
+---
+
+## Iowa Counties No Internet Dashboard
+
+<div class="tableauPlaceholder" id="assignment3Viz" style="width:100%; margin:auto; max-width:1200px;">
+  <noscript>
+    <a href="#">
+      <img alt="CRP-5580 Assignment 3 Dashboard"
+           src="https://public.tableau.com/static/images/Ca/Cain-Assignment-3-CRP-5580/Cain-CRP-5580-Assignment-3/1_rss.png"
+           style="border:none;" />
+    </a>
+  </noscript>
+
+  <object class="tableauViz" style="width:100%; height:900px;">
+    <param name="host_url" value="https://public.tableau.com/" />
+    <param name="embed_code_version" value="3" />
+    <param name="name" value="Cain-Assignment-3-CRP-5580/Cain-CRP-5580-Assignment-3" />
+    <param name="tabs" value="no" />
+    <param name="toolbar" value="yes" />
+  </object>
+</div>
+
+<script src="https://public.tableau.com/javascripts/api/viz_v1.js"></script>
