@@ -5,6 +5,12 @@ title: Tasks
 
 # Tasks
 
-- [Assignment 1](assignment-1.html)
-- [Assignment 2](assignment-2.html)
-- [Assignment 3](assignment-3.html)
+**CRP-5580 Assignment 1 – Korean Agriculture Dashboards**  
+[View the dashboards](tasks/assignment-1/)
+
+**CRP-5580 Assignment 2 – Korean Agriculture Dashboards**  
+[View the dashboards](tasks/assignment-2/)
+
+**CRP-5580 Assignment 3 – Iowa No Internet  Dashboards**  
+[View the dashboards](tasks/assignment-3/)
+
