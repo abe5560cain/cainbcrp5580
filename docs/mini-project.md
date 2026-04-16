@@ -1,4 +1,10 @@
 ## Cain's Mini Project
+<style>
+.page-content {
+  max-width: 1400px !important;
+}
+</style>
+
 </style>
 <iframe 
   src="https://public.tableau.com/views/CainABE-5580Mini-Project/Dashboard1?:embed=true&:showVizHome=no"
