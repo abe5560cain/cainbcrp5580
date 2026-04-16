@@ -1,5 +1,4 @@
 ## Cain's Mini Project
-<style>
 .page-content {
   max-width: 1400px !important;
 }
