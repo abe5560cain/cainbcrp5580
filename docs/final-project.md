@@ -1,6 +1,7 @@
 <iframe
-    src="https://public.tableau.com/views/shared/2MBS2FC68?:showVizHome=no"
-    width="150%"
+    src="https://public.tableau.com/views/ABE-5580-Final-Project/Story1?:showVizHome=no&:tabs=no"
+    width="100%"
     height="900"
-    frameborder="0">
+    frameborder="0"
+    allowfullscreen>
 </iframe>
