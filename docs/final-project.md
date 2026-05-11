@@ -1,6 +1,6 @@
 <iframe
-    src="https://public.tableau.com/views/CainABE-5580Mini-Project/Dashboard1?:embed=true&:showVizHome=no"
-    width="100%"
-    height="800"
+    src="https://public.tableau.com/views/shared/2MBS2FC68?:showVizHome=no"
+    width="150%"
+    height="900"
     frameborder="0">
 </iframe>
