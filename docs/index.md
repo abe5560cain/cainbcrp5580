@@ -20,5 +20,6 @@ Use the buttons below to see the course  tasks, exercises, assignments, and fina
   <a href="exercises/" class="btn btn--primary">View Exercises</a>
   <a href="assignments/" class="btn btn--primary">View Assignments</a>
   <a href="mini-project/" class="btn btn--primary">View Mini Project</a>
+   <a href="finalprojectproposal.html/" class="btn btn--primary">View Final Project Proposal</a>
   <a href="final-project/" class="btn btn--primary">View Final Project</a>
 </div>
